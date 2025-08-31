@@ -98,5 +98,9 @@ while True:
     # cv2.imshow("image_combined", image_combined)
 
     cv2.waitKey(1)
+#     how to activate 
+# C:\Users\user\PycharmProjects\aivirtualmove>.venv\Scripts\activate
+
+
 
   #streamlit run main.py to run server
